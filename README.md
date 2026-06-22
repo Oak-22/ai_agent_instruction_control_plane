@@ -11,6 +11,36 @@ The template formalizes three ideas:
 - teams need durable places to capture learning from real work
 - AI-assisted development workflows should be reusable and standardized across repositories
 
+## Portfolio Role
+
+This repository is part of my AI-native engineering methodology layer.
+
+It is not a standalone portfolio product. It supports my project-facing
+repositories by documenting reusable collaboration patterns, agent
+workflows, and durable knowledge-capture practices.
+
+Project-facing repositories include:
+
+- `myHealth`
+- `creative-workflow-batch-transformation-pipeline`
+- `ai-infrastructure-financial-warehouse`
+
+## Methodology Role
+
+This repository defines the reusable operating system for AI-assisted
+development: prompts, workflow templates, agent instructions, review
+rituals, and reusable project scaffolding.
+
+It answers:
+
+> How should an AI-native engineering workflow be run?
+
+## Related Methodology Repository
+
+For applied case studies and observations from real AI-human
+engineering work, see
+[`ai-human-engineering-collaboration-case-studies-and-best-practices`](https://github.com/Oak-22/ai-human-engineering-collaboration-case-studies-and-best-practices).
+
 ## Template Contents
 
 - `.github/agent-instructions/`
