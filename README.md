@@ -1,7 +1,8 @@
-# AI-Human Workflow Template
+# AI-Assisted Developer Workflow Platform Template
 
-This repository is a reusable template scaffold for AI-human
-development workflows, including agent guidance and constraints and developer knowledge capture and retention
+Reusable platform template for standardizing AI-assisted developer
+workflows across repositories, including agent instruction layers,
+prompt provenance, adoption models, and repo scaffolding.
 
 ## Purpose
 
@@ -26,7 +27,7 @@ workflows, and durable knowledge-capture practices.
 Project-facing repositories include:
 
 - `myHealth`
-- `creative-workflow-batch-transformation-pipeline`
+- `digital_asset_processing_pipeline`
 - `ai-infrastructure-financial-warehouse`
 
 ## Methodology Role
@@ -43,7 +44,7 @@ It answers:
 
 For applied case studies and observations from real AI-human
 engineering work, see
-[`ai-human-engineering-collaboration-case-studies-and-best-practices`](https://github.com/Oak-22/ai-human-engineering-collaboration-case-studies-and-best-practices).
+[`ai_human_engineering_collaboration_case_studies_and_best_practices`](https://github.com/Oak-22/ai_human_engineering_collaboration_case_studies_and_best_practices).
 
 ## Business Value
 
