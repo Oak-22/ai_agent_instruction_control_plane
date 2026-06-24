@@ -1,7 +1,7 @@
 # Workflow-Derived Retrieval for AI-Assisted Development
 
 This note describes a related design direction for this repository.
-It is not the current product scope of `ai-assisted-development-template`.
+It is not the current product scope of `ai_assisted_developer_workflow_platform_template`.
 
 The current repository provides a reusable scaffold for AI-human
 workflow artifacts. The concept described below explains one possible
