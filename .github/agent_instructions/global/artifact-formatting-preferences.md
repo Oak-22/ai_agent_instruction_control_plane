@@ -59,6 +59,31 @@ Rules:
   alphabetical order.
 
 
+## Markdown Mechanics
+
+When editing Markdown, preserve meaning unless the user explicitly asks
+for content changes.
+
+Use local style first. When local style is unclear:
+
+- keep one H1 for the document title
+- use H2 for major sections and H3 for subsections
+- avoid deep heading nesting unless the document already uses it
+- wrap prose to reduce reader fatigue
+- use bullets for clear enumeration, not every paragraph
+- keep each bullet focused on one idea when possible
+- split long lists into named sections when that improves scanning
+- use fenced code blocks for commands, data shapes, configuration, and
+  text diagrams
+- use useful code-block labels such as `text`, `bash`, `json`, or
+  `python`
+- use bold sparingly for important concepts
+
+Before finishing Markdown edits, check that headings render correctly,
+code blocks are fenced, bullet indentation is valid, diagrams or text
+flows remain aligned, and formatting did not alter meaning.
+
+
 ## Derive Local Style Before Writing
 
 Before creating a new artifact in an existing repository, inspect nearby
@@ -103,6 +128,26 @@ Do not alphabetize fields when alphabetical order hides an important
 sequence.
 
 
+## Artifact Naming
+
+Related artifacts should use a consistent naming scheme when they belong
+to the same stage, workflow, or output family.
+
+When creating or reviewing artifact names, compare:
+
+- scope prefix
+- stage or workflow identifier
+- artifact type
+- derivation order
+- compatibility constraints
+
+If names in the same family mix patterns, prefer one convention unless
+the repository already documents why the difference exists.
+
+Prompt reference:
+`prompt-instruction-log.md#pil-2026-06-23-001-artifact-naming-consistency`
+
+
 ## Diagrams
 
 For diagrams, preserve conceptual flow over visual novelty.
@@ -117,4 +162,3 @@ Prefer:
 
 Avoid diagram layouts that look balanced but imply the wrong order,
 ownership, or dependency relationship.
-
