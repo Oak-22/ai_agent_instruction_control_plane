@@ -57,10 +57,10 @@ run.
 
 ## Baseline
 
-- Mermaid source: `../baseline-v1/v1-ai-knowledge-promotion.mmd`
-- Excalidraw scene: `../baseline-v1/v1-ai-knowledge-promotion.excalidraw`
-- Excalidraw export: `../baseline-v1/v1-ai-knowledge-promotion.png`
-- update brief: `../briefs/v2-ai-knowledge-promotion-update-brief.md`
+- Mermaid source: `00-baseline/v1-ai-knowledge-promotion.mmd`
+- Excalidraw scene: `00-baseline/v1-ai-knowledge-promotion.excalidraw`
+- Excalidraw export: `00-baseline/v1-ai-knowledge-promotion.png`
+- update brief: `01-briefs/v2-ai-knowledge-promotion-update-brief.md`
 - Mermaid render: `00-baseline/v1-ai-knowledge-promotion.mermaid-rendered.png`
 
 The Mermaid render is generated from the raw source before Excalidraw

@@ -2,10 +2,10 @@
 
 ## Inputs
 
-- `../../baseline-v1/v1-ai-knowledge-promotion.mmd`
+- `../00-baseline/v1-ai-knowledge-promotion.mmd`
 - `../00-baseline/v1-ai-knowledge-promotion.mermaid-rendered.png`
-- `../../baseline-v1/v1-ai-knowledge-promotion.png`
-- `../../briefs/v2-ai-knowledge-promotion-update-brief.md`
+- `../00-baseline/v1-ai-knowledge-promotion.png`
+- `../01-briefs/v2-ai-knowledge-promotion-update-brief.md`
 
 ## Outputs
 

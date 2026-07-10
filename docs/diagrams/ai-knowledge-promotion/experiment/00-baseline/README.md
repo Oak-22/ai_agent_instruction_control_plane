@@ -2,10 +2,12 @@
 
 Shared v1 inputs:
 
-- Mermaid: `../../baseline-v1/v1-ai-knowledge-promotion.mmd`
-- Excalidraw: `../../baseline-v1/v1-ai-knowledge-promotion.excalidraw`
-- PNG: `../../baseline-v1/v1-ai-knowledge-promotion.png`
+- Mermaid: `v1-ai-knowledge-promotion.mmd`
+- Raw Mermaid render: `v1-ai-knowledge-promotion.mermaid-rendered.png`
+- Raw Mermaid SVG: `v1-ai-knowledge-promotion.mermaid-rendered.svg`
+- Excalidraw: `v1-ai-knowledge-promotion.excalidraw`
+- Pre-manual Excalidraw scene: `v1-ai-knowledge-promotion-pre-manual-changes.excalidraw`
+- Pre-manual Excalidraw PNG: `v1-ai-knowledge-promotion-pre-manual-changes.png`
+- PNG: `v1-ai-knowledge-promotion.png`
 
-Store the raw Mermaid render here as:
-
-`v1-ai-knowledge-promotion.mermaid-rendered.png`
+The final PNG is the manually edited visual reference.

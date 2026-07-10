@@ -2,8 +2,8 @@
 
 ## Inputs
 
-- `../../baseline-v1/v1-ai-knowledge-promotion.mmd`
-- `../../briefs/v2-ai-knowledge-promotion-update-brief.md`
+- `../00-baseline/v1-ai-knowledge-promotion.mmd`
+- `../01-briefs/v2-ai-knowledge-promotion-update-brief.md`
 
 ## Outputs
 

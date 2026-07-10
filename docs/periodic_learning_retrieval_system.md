@@ -2,7 +2,7 @@
 
 This note describes a related design direction for this repository.
 It is not the current product scope of
-`ai_agent_instruction_control_plane`.
+`agent_instruction_control_plane`.
 
 The current repository provides a reusable scaffold for AI-human
 workflow artifacts. The concept described below explains one possible

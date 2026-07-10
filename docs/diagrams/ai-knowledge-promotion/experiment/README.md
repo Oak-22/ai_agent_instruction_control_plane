@@ -26,8 +26,8 @@ The protocol is in [`experiment-design.md`](experiment-design.md).
 
 ## Shared Artifacts
 
-- `../baseline-v1/v1-ai-knowledge-promotion.mmd`
-- `../baseline-v1/v1-ai-knowledge-promotion.excalidraw`
-- `../baseline-v1/v1-ai-knowledge-promotion.png`
-- `../briefs/v2-ai-knowledge-promotion-update-brief.md`
-- `../briefs/architecture-diagram-update-brief-template.md`
+- `00-baseline/v1-ai-knowledge-promotion.mmd`
+- `00-baseline/v1-ai-knowledge-promotion.excalidraw`
+- `00-baseline/v1-ai-knowledge-promotion.png`
+- `01-briefs/v2-ai-knowledge-promotion-update-brief.md`
+- `01-briefs/architecture-diagram-update-brief-template.md`

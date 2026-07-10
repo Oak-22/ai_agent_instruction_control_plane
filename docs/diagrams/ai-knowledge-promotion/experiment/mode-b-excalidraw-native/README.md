@@ -2,9 +2,9 @@
 
 ## Inputs
 
-- `../../baseline-v1/v1-ai-knowledge-promotion.excalidraw`
-- `../../baseline-v1/v1-ai-knowledge-promotion.png`
-- `../../briefs/v2-ai-knowledge-promotion-update-brief.md`
+- `../00-baseline/v1-ai-knowledge-promotion.excalidraw`
+- `../00-baseline/v1-ai-knowledge-promotion.png`
+- `../01-briefs/v2-ai-knowledge-promotion-update-brief.md`
 
 ## Outputs
 

@@ -1,4 +1,4 @@
-# AI Agent Instruction Control Plane
+# Agent Instruction Control Plane
 
 A repo-portable architecture for governing AI-assisted engineering
 behavior through layered instructions, runtime adapters, provenance logs,
@@ -31,9 +31,9 @@ future directions lives in [`docs/`](docs/).
 
 ## Repository Identity
 
-Use **AI Agent Instruction Control Plane** as the project name.
+Use **Agent Instruction Control Plane** as the project name.
 
-Use `ai_agent_instruction_control_plane` as the repository slug for
+Use `agent_instruction_control_plane` as the repository slug for
 local directories, remotes, package references, and generated examples.
 
 This name describes the reusable system boundary: it is a control plane

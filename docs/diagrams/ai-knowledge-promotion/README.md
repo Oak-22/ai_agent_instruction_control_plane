@@ -7,9 +7,9 @@ platform.
 ## Folders
 
 - `predecessor/`: historical Draw.io source.
-- `baseline-v1/`: v1 Mermaid, Excalidraw, and PNG artifacts.
-- `briefs/`: update briefs and templates.
 - `experiment/`: A1/A2/A3/B experiment files.
+- `experiment/00-baseline/`: v1 source and rendered baseline artifacts.
+- `experiment/01-briefs/`: update briefs and templates.
 - `promoted/`: reserved for the selected final diagram.
 
 The broader diagram covers personal, team, and organizational knowledge.

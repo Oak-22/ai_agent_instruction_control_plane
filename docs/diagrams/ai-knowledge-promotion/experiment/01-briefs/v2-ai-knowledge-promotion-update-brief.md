@@ -3,11 +3,11 @@
 ## Source Artifacts
 
 Semantic source:
-- `docs/diagrams/ai-knowledge-promotion/baseline-v1/v1-ai-knowledge-promotion.mmd`
+- `docs/diagrams/ai-knowledge-promotion/experiment/00-baseline/v1-ai-knowledge-promotion.mmd`
 
 Visual source:
-- `docs/diagrams/ai-knowledge-promotion/baseline-v1/v1-ai-knowledge-promotion.excalidraw`
-- `docs/diagrams/ai-knowledge-promotion/baseline-v1/v1-ai-knowledge-promotion.png`
+- `docs/diagrams/ai-knowledge-promotion/experiment/00-baseline/v1-ai-knowledge-promotion.excalidraw`
+- `docs/diagrams/ai-knowledge-promotion/experiment/00-baseline/v1-ai-knowledge-promotion.png`
 
 Related context:
 - `docs/periodic_learning_retrieval_system.md`

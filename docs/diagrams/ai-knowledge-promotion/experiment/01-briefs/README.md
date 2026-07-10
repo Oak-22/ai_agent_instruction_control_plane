@@ -2,8 +2,8 @@
 
 Current briefs:
 
-- `../../briefs/v2-ai-knowledge-promotion-update-brief.md`
-- `../../briefs/architecture-diagram-update-brief-template.md`
+- `v2-ai-knowledge-promotion-update-brief.md`
+- `architecture-diagram-update-brief-template.md`
 
 Store frozen run-specific briefs here when needed:
 
